@@ -2,10 +2,15 @@
   <a href="README.md">🇬🇧 English</a> | <a href="README-id.md">🇮🇩 Indonesia</a>
 </div>
 
-<h1 align="center">
-  Halo <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> Saya Naufal Aufaa Abyan
-</h1>
-<h3 align="center">Blockchain Engineer | Fullstack Developer | Web3 Innovator</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="50px" width="50px">
+  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&center=true&vCenter=true&pause=1000&color=0097b2&width=850&height=80&lines=Halo%2C+Saya+Naufal+Aufaa+Abyan">
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&center=true&vCenter=true&pause=1200&color=E0E0E0&width=850&height=80&lines=%3E+Blockchain+Engineer%3B%3E+Fullstack+Developer%3B%3E+Web3+Innovator">
+</div>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=naufalaufaaabyan">
