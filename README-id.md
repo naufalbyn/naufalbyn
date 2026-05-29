@@ -32,7 +32,7 @@ Selamat datang di ruang kerja digital saya! Saya adalah seorang developer yang b
 > **[Axeon Protocol](https://github.com/NaufalAufaaAbyan/Axeon-Protocol.git)** 
 > Protokol infrastruktur manajemen dan langganan terdesentralisasi yang tangguh, dirancang untuk layanan Web3 generasi berikutnya.
 
-> **[Stack Block Arcade]()** 
+> **[Stack Block Arcade](https://github.com/NaufalAufaaAbyan/Stack-Block-Arcade)** 
 > Pengalaman GameFi *arcade on-chain* yang imersif, menggabungkan mekanika *gaming* klasik dengan *reward blockchain*.
 
 ---
