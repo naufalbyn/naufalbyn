@@ -3,12 +3,14 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="50px" width="50px">
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="90px" width="90px">
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&center=true&vCenter=true&pause=1000&color=0097b2&width=650&height=60&lines=Hey%2C+I'm+Naufal+Aufaa+Abyan">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&center=true&vCenter=true&pause=1000&color=0097b2&width=800&height=80&lines=Hey%2C+I'm+Naufal+Aufaa+Abyan">
 </div>
 
-<h3 align="center">Blockchain Engineer | Fullstack Developer | Web3 Innovator</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&center=true&vCenter=true&pause=1200&color=E0E0E0&width=800&height=80&lines=%3E+Blockchain+Engineer%3B%3E+Fullstack+Developer%3B%3E+Web3+Innovator">
+</div>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=naufalaufaaabyan">
