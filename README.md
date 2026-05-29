@@ -90,10 +90,6 @@ Welcome to my digital workspace! I am a passionate developer focusing on the int
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=naufalaufaaabyan&theme=dracula&radius=10" alt="naufalaufaaabyan's Activity Graph" />
 </p>
 
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
