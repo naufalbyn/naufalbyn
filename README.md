@@ -5,8 +5,7 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="50px" width="50px">
   <br>
-  <!-- Ganti tulisan LINK_GIF_TEKS_KAMU_DISINI dengan URL file GIF kamu -->
-  <img src="LINK_GIF_TEKS_KAMU_DISINI" width="650px" alt="Naufal Aufaa Abyan">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&center=true&vCenter=true&pause=1000&color=0097b2&width=650&height=60&lines=Hey%2C+I'm+Naufal+Aufaa+Abyan">
 </div>
 
 <h3 align="center">Blockchain Engineer | Fullstack Developer | Web3 Innovator</h3>
