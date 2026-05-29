@@ -32,9 +32,6 @@ Welcome to my digital workspace! I am a passionate developer focusing on the int
 > **[Axeon Protocol](https://github.com/NaufalAufaaAbyan/Axeon-Protocol.git)** 
 > A robust decentralized management and subscription infrastructure protocol designed for the next generation of Web3 services.
 
-> **[VeritasVote](https://github.com/NaufalAufaaAbyan/VeritasVote)** 
-> A full-stack decentralized governance voting protocol utilizing Ethereum Smart Contracts for transparent and immutable decision-making.
-
 > **[Stack Block Arcade](https://github.com/NaufalAufaaAbyan/Stack-Block-Arcade)** 
 > An immersive, on-chain arcade GameFi experience blending classic gaming mechanics with blockchain rewards.
 
