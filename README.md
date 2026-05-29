@@ -2,9 +2,13 @@
   <a href="README.md">🇬🇧 English</a> | <a href="README-id.md">🇮🇩 Indonesia</a>
 </div>
 
-<h1 align="center">
-  Hey <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="30px" width="30px"> I'm Naufal Aufaa Abyan
-</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/refs/heads/main/images/Developer.gif" height="50px" width="50px">
+  <br>
+  <!-- Ganti tulisan LINK_GIF_TEKS_KAMU_DISINI dengan URL file GIF kamu -->
+  <img src="LINK_GIF_TEKS_KAMU_DISINI" width="650px" alt="Naufal Aufaa Abyan">
+</div>
+
 <h3 align="center">Blockchain Engineer | Fullstack Developer | Web3 Innovator</h3>
 
 <p align="center">
