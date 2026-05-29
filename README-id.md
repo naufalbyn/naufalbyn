@@ -32,10 +32,7 @@ Selamat datang di ruang kerja digital saya! Saya adalah seorang developer yang b
 > **[Axeon Protocol](https://github.com/NaufalAufaaAbyan/Axeon-Protocol.git)** 
 > Protokol infrastruktur manajemen dan langganan terdesentralisasi yang tangguh, dirancang untuk layanan Web3 generasi berikutnya.
 
-> **VeritasVote** 
-> Protokol tata kelola pemungutan suara terdesentralisasi *full-stack* yang memanfaatkan Ethereum Smart Contracts untuk pengambilan keputusan yang transparan dan tidak dapat diubah (immutable).
-
-> **Stack Block Arcade** 
+> **[Stack Block Arcade]()** 
 > Pengalaman GameFi *arcade on-chain* yang imersif, menggabungkan mekanika *gaming* klasik dengan *reward blockchain*.
 
 ---
