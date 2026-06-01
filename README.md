@@ -74,20 +74,20 @@ Welcome to my digital workspace! I am a passionate developer focusing on the int
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <a href="https://github.com/naufalaufaaabyan">
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=naufalaufaaabyan&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10&hide_title=true" alt="naufalaufaaabyan's GitHub Stats" width="48%" />
+  <a href="https://github.com/opayys">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=opayys&cache_seconds=7200&layout=compact&theme=dracula&border_radius=10&hide_title=true" alt="opayys's GitHub Stats" width="48%" />
   </a>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=naufalaufaaabyan&langs_count=6&layout=compact&theme=dracula&border_radius=10&hide_title=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=opayys&langs_count=6&layout=compact&theme=dracula&border_radius=10&hide_title=true" alt="Top Languages" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=naufalaufaaabyan&theme=dracula&hide_border=true&cache_seconds=86400" alt="naufalaufaaabyan's GitHub Streak" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=opayys&theme=dracula&hide_border=true&cache_seconds=86400" alt="naufalaufaaabyan's GitHub Streak" width="100%" />
 </div>
 
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=naufalaufaaabyan&theme=dracula&radius=10" alt="naufalaufaaabyan's Activity Graph" />
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=opayys&theme=dracula&radius=10" alt="naufalaufaaabyan's Activity Graph" />
 </p>
 
 <p align="center">
