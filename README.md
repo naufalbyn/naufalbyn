@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&center=true&vCenter=true&pause=1200&color=E0E0E0&width=800&height=80&lines=%3E+Blockchain+Developer%3B%3E+Fullstack+Developer%3B%3E+Web3+Innovator">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&center=true&vCenter=true&pause=1200&color=E0E0E0&width=800&height=80&lines=%3E+Blockchain+Enthusiast%3B%3E+Fullstack+Developer%3B%3E+Web3+Innovator">
 </div>
 
 <p align="center">
