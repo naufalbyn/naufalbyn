@@ -13,8 +13,8 @@
 </div>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=naufalaufaaabyan">
-    <img src="https://komarev.com/ghpvc/?username=naufalaufaaabyan&label=Profile%20views&color=00FFFF&style=flat-square" alt="naufalaufaaabyan's profile views" />
+  <a href="https://komarev.com/ghpvc/?username=opayys">
+    <img src="https://komarev.com/ghpvc/?username=opayys&label=Profile%20views&color=00FFFF&style=flat-square" alt="opayys's profile views" />
   </a>
 </p>
 
